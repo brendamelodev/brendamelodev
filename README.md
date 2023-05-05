@@ -12,7 +12,7 @@
 ## Hello, Devs!!
 Tenho 28 anos, sou Pernambucana e trabalhei por muito tempo como designer gráfica (o que me dá um diferencial na criação de interfaces atraentes e funcionais :wink:). Sou iniciante no universo da programação, caçadora oficial de bugs, e quando mais eu aprendo e passo raiva, mais eu amo tudo isso! :heart_eyes:
 
-![Snake animation](https://github.com/brendamelodev/brendamelodev/blob/output/github-contribution-grid-snake.svg)
+![Gato fofo](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ## Ferramentas e Tecnologias
 
