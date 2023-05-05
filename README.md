@@ -12,7 +12,7 @@
 ## Hello, Devs!!
 Tenho 28 anos, sou Pernambucana e trabalhei por muito tempo como designer gráfica (o que me dá um diferencial na criação de interfaces atraentes e funcionais :wink:). Sou iniciante no universo da programação, caçadora oficial de bugs, e quando mais eu aprendo e passo raiva, mais eu amo tudo isso! :heart_eyes:
 
-![Gato fofo](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+![Gato fofo](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://tenor.com/pt-BR/view/happy-joy-excited-smiling-harry-potter-gif-14683449)
 
 ## Ferramentas e Tecnologias
 
