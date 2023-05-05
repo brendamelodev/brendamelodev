@@ -12,13 +12,10 @@
 ## Hello, Devs!!
 Tenho 28 anos, sou Pernambucana e trabalhei por muito tempo como designer gráfica (o que me dá um diferencial na criação de interfaces atraentes e funcionais :wink:). Sou iniciante no universo da programação, caçadora oficial de bugs, e quando mais eu aprendo e passo raiva, mais eu amo tudo isso! :heart_eyes:
 
-![Harry Potter animado](https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif)
-
-  <p align="center">
+<p align="center">
   <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif">
 </p>
 
-  
 ## Ferramentas e Tecnologias
 
 -Front-end
