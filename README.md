@@ -1,11 +1,5 @@
 # Brenda Melo
 <div>
-<a href="https://github.com/brendamelodev">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendamelodev&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brendamelodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-  
-<div>
 <a href="https://www.linkedin.com/in/brendamelodev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
@@ -29,3 +23,9 @@ Tenho 28 anos, sou Pernambucana e trabalhei por muito tempo como designer gráfi
 -Ilustração
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40"/>
+
+<div>
+<a href="https://github.com/brendamelodev">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendamelodev&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brendamelodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
