@@ -24,6 +24,8 @@ Tenho 28 anos, sou Pernambucana e trabalhei por muito tempo como designer gráfi
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40"/>
 
+## Estatísticas GitHub
+
 <div>
 <a href="https://github.com/brendamelodev">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendamelodev&layout=compact&langs_count=7&theme=dracula"/>
