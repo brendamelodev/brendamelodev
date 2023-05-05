@@ -14,6 +14,11 @@ Tenho 28 anos, sou Pernambucana e trabalhei por muito tempo como designer gráfi
 
 ![Harry Potter animado](https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif)
 
+  <p align="center">
+  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif">
+</p>
+
+  
 ## Ferramentas e Tecnologias
 
 -Front-end
